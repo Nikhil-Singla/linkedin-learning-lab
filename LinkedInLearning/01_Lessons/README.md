@@ -1,11 +1,31 @@
-Programming Foundations: Fundamentals By: Annyce Davis (Updated Dec 2020)
-Completed 1/25/2023
+## 📘 LinkedIn Learning Notes
+A personal repository to store and organize my notes, summaries, and key takeaways from LinkedIn Learning courses.
 
-Software Architecture Foundations By: Allen Holub (Mar 2019)
-Completed 3/27/2023
+## 📂 Repository Structure
+Each course has its own folder.
+Notes are primarily written in text for readability and portability.
 
-Python vs. JavaScript for Development By: Julie Nisbet and Madecraft (Oct 2021)
-Completed 8/28/2023
+## 📝 Goals
+Document key insights and concepts.
+Summarize practical takeaways for quick reference.
+Build a personal knowledge base to revisit later.
 
-JavaScript Essential Training By: Morten Rand-Hendriksen (December 2024)
+## ✅ How to Use
+Browse through course folders.
+Open notes.txt to view the main notes.
 
+## 📖 Courses Covered
+🚧 UNDER CONSTRUCTION
+
+## 🚀 Future Improvements
+Add tagging system for easier search.
+Organize notes by skill category (e.g., programming, design, business).
+Include cheatsheets for quick refreshers.
+Automate updates to README and note compilation
+
+
+## 🤝 Contributing
+This repo is primarily for personal use, but if you’d like to share resources or suggest improvements, feel free to open an issue or a pull request.
+
+## 📌 License
+This project is for personal educational use. Notes summarize LinkedIn Learning content in my own words and are not official transcripts.
